@@ -1,0 +1,31 @@
+nome: "Alan"
+idade: 23
+
+# Este objeto descreve nosso objeto
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
+
+string_sem_aspas: uma string sem aspas
+
+nulo: ~
+nulo_dois: null
+
+verdadeiro: True
+verdadeiro_dois: On
+
+falso: False
+falso_dois: Off
+
+lista:
+  - 1
+  - 2
+  - 3
+
+lista_dois: [1, 2, 3]
+
+obj: {a: 1, b: 2}
+
+obj_dois:
+  a: 1
+  b: 2
