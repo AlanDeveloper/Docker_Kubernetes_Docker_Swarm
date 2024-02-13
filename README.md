@@ -2,4 +2,4 @@
 
 Curso Udemy - Instrutor : Matheus Battisti
 
-Link para o curso: [https://www.udemy.com/course/curso-web/](https://www.udemy.com/course/docker-para-desenvolvedores-com-docker-swarm-e-kubernetes/)
+Link para o curso: https://www.udemy.com/course/docker-para-desenvolvedores-com-docker-swarm-e-kubernetes/
